@@ -101,10 +101,11 @@ New hires cannot retain eight hours of instruction. Heavy cognitive content (pro
 
 ```
 Support-Onboarding-Program/
-├── index.html          — Full case study page (GitHub Pages)
-├── README.md           — This file
-└── assets/
-    └── support-onboarding-program.png   — 30-60-90 phase diagram
+├── index.html                              — Full case study page (GitHub Pages)
+├── README.md                               — This file
+├── support-onboarding-notion-phase-one.png         — Phase 1 day-by-day schedule
+├── support-onboarding-notion-trackers.png          — Trainee tracker & daily log
+└── support-onboarding-notion-after-onboarding.png  — What comes next / resources
 ```
 
 ---
